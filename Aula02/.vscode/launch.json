@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrincipalAluno",
+            "request": "launch",
+            "mainClass": "PrincipalAluno",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrincipalComputador",
+            "request": "launch",
+            "mainClass": "PrincipalComputador",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploString05",
+            "request": "launch",
+            "mainClass": "ExemploString05",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemoploString04",
+            "request": "launch",
+            "mainClass": "ExemoploString04",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemoploString03",
+            "request": "launch",
+            "mainClass": "ExemoploString03",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemoploString02",
+            "request": "launch",
+            "mainClass": "ExemoploString02",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploString",
+            "request": "launch",
+            "mainClass": "ExemploString",
+            "projectName": "Aula02_dbdde00f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrincipalTratamentoExcessao",
+            "request": "launch",
+            "mainClass": "PrincipalTratamentoExcessao",
+            "projectName": "Aula02_dbdde00f"
+        }
+    ]
+}
